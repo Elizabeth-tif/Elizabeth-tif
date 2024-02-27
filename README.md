@@ -13,7 +13,7 @@
 
 # Socials
 > Instagram *@elizabeth.gita*
-> Email *elizabeth.gita.tif423@gmail.com*
+> <br>Email *elizabeth.gita.tif423@gmail.com*
 
 #
 [Slogan](/Nbc_the_more_you_know.jpg)
