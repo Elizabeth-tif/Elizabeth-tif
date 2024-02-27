@@ -1,16 +1,18 @@
 ### Hi there 👋
+---
+## About Me
+ I am an ==informatics engineering undergraduate from Polytechnic State of Bandung.== I am interested in learning a lot of things and i hope i can learn plenty from the masters.
 
-<!--
-**Elizabeth-tif/Elizabeth-tif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Technology
+- I am an *intermediate C language* user
+- Currently leaning java and PHP.
 
-Here are some ideas to get you started:
+## Projects
+1. Making a TicTacToe game in C with WASD
+2. Making a mockup website in Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Socials
+> Instagram *@elizabeth.gita
+
+#
+[Slogan](https://peabodyawards.com/wp-content/uploads/2021/04/Nbc_the_more_you_know.jpg)
