@@ -12,7 +12,8 @@
 2. Making a mockup website in Laravel
 
 # Socials
-> Instagram *@elizabeth.gita
+> Instagram *@elizabeth.gita*
+> Email *elizabeth.gita.tif423@gmail.com*
 
 #
 [Slogan](/Nbc_the_more_you_know.jpg)
