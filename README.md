@@ -21,7 +21,7 @@
 
 # Technology
 - I am an *intermediate C language* user
-- Currently leaning java and PHP.
+- Currently learning java and PHP.
 
 # Projects
 1. Making a TicTacToe game in C with WASD
